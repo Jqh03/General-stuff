@@ -1,0 +1,21 @@
+# Node.js paketit
+node_modules/
+
+# Lokitiedostot
+*.log
+npm-debug.log*
+
+# Ympäristömuuttujat
+.env
+.env.*
+
+# Build-kansiot
+dist/
+build/
+
+# Testikattavuus
+coverage/
+
+# Käyttöjärjestelmän tiedostot
+.DS_Store
+Thumbs.db
